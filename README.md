@@ -1,5 +1,7 @@
-![Capture2](https://github.com/user-attachments/assets/2e61bd2a-59f0-49d5-9634-18e3c8fe8f92)
-![Capture](https://github.com/user-attachments/assets/b310d924-58e1-400c-bfab-ec1e274ed85e)
+
+<img src="https://github.com/user-attachments/assets/2e61bd2a-59f0-49d5-9634-18e3c8fe8f92" width="300" />
+<img src="https://github.com/user-attachments/assets/b310d924-58e1-400c-bfab-ec1e274ed85e" width="300" />
+
 # dart_models
 
 A new Flutter project.
