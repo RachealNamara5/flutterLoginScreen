@@ -1,5 +1,6 @@
-import 'package:dart_models/screens/category_screen.dart';
-import 'package:dart_models/screens/login.dart';
+//import 'package:dart_models/screens/category_screen.dart';
+//import 'package:dart_models/screens/login.dart';
+import 'package:dart_models/screens/signup.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -37,7 +38,8 @@ class MyApp extends StatelessWidget {
       //home: const MyHomePage(title: 'Flutter Demo Home Page'),
       //home:const CategoryScreen()
       //home: const CategoryScreen()
-      home: LoginScreen(),
+      //home: LoginScreen(),
+      home: SignUpScreen(), 
     );
   }
 }
